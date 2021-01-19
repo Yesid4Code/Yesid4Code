@@ -3,7 +3,7 @@
 Hey there <img src="Images/Greeting.gif" width="29px"> I'm Yesid A. López V.<br>
 Thanks for visitin my profile.<br>
 Here you'll find some information about me:<br>
-<img src="Images/Yesid2.png" width="90%" height="100px"></p><br>
+<img src="Images/Yesid2.png" width="90%" height="200px"></p><br>
 
 <p align="center">
 Academic background<br>
