@@ -7,7 +7,11 @@ Here you'll find some information about me:<br>
 
 <p align="center">
 Academic background<br>
-Software Developer <img src="Images/logo_cotecnova.png" height="50" width="50"> Politécnico Grancolombiano <img src="Images/logo_poli" height="50" width="50"> Holberton School <img src="Images/logo_holberton.png" height="50" width="50"><br>
+Software Developer <img src="Images/logo_cotecnova.png" height="30" width="50" alt="COTECNOVA"> 
+Politécnico Grancolombiano <img src="Images/logo_poli.png" height="30" width="50" alt="POLI"> 
+Holberton School <img src="Images/logo_holberton.png" height="30" width="50" alt="Holberton"><br>
+<p>
+<p>
 Fun facts: I'm also an Industrial Engineer who loves entrepreneurship 
 Find me around the web 🌎:
 </p>
