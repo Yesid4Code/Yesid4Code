@@ -5,7 +5,7 @@ Hey there, I'm Yesid A. López V. <img src="Images/Greeting.gif" width="29px"><b
 
 <p align="center">
 Academic background<br>
-Software Developer <img align="center" src="Images/logo_cotecnova.png" height="50" width="100" alt="COTECNOVA"> 
+Software Developer <img align="center" src="Images/logo_cotecnova.png" height="50" width="50" alt="COTECNOVA"> 
 Software Engineer  <img align="center" src="Images/logo_poli.png" height="50" width="100" alt="POLI">
 Software Developer <img align="center" src="Images/logo_holberton.png" height="50" width="50" alt="Holberton">
 </p>
@@ -14,9 +14,9 @@ Fun facts: I'm also an Industrial Engineer who loves entrepreneurship
 Find me around the web 🌎:
 </p>
 
-<p align="center">
+<p align="center"><h3>My GitHub stats</h3>
 <img src="https://github-readme-stats.vercel.app/api?username=Yesid4Code&hide=stars&count_private=true&show_icons=true&title_color=da1499&text_color=00a7dc&icon_color=ffde2f&bg_color=ffffff" height="150" width="320" alt="My github stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yesid4Code&layout=compact&langs_count=6&title_color=da1499&text_color=00a7d height="150" width="320" alt="Languages uses">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yesid4Code&layout=compact&langs_count=6&title_color=da1499&text_color=00a7d height="15%" width="320" alt="Languages uses">
 
 </p>
 
