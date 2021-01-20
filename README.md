@@ -1,6 +1,6 @@
 <!-- Portada -->
 <p align="center" height="300">
-<h2>Hey there, I'm <em>Yesid A. López V.</em></h2> <img src="Images/Greeting.gif" width="29px"><br>
+Hey there, I'm <em>Yesid A. López V.</em><img src="Images/Greeting.gif" width="29px"><br>
 <img align="right" height="280" width="500" alt="Personal image" src="Images/Yesid2.png"></p><br>
 
 Software Engineer passionate about Programming, Networking, Security, and Mathematics.
@@ -28,6 +28,6 @@ Software Developer <img align="center" src="Images/logo_holberton.png" height="5
 <p align="right">
 <a target="blank" href="https://www.linkedin.com/in/Yesid4Code/"><img align="center" height="40" width="40" alt="Yesid_Lopez" src="Images/logo_linkedin.png"></a>
 <a target="blank" href="https://twitter.com/Yesid4Code"><img align="center" height="40" width="40" alt="Yesid_Lopez" src="Images/logo_twitter.png"></a>
-<a href="https://medium.com/@mafe_crespo" target="blank"><img align="center" src="https://github.com/mfcrespo/Github_profile/blob/master/images/logo_medium.png" alt="@mafe_crespo" height="40" width="40" /></a>
+<!--<a href="https://medium.com/@mafe_crespo" target="blank"><img align="center" src="https://github.com/mfcrespo/Github_profile/blob/master/images/logo_medium.png" alt="@mafe_crespo" height="40" width="40" /></a> -->
 </p>
 
