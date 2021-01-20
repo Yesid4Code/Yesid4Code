@@ -1,8 +1,9 @@
 <!-- Portada -->
 <p align="center" height="300">
-Hey there, I'm Yesid A. López V. <img src="Images/Greeting.gif" width="29px"><br>
+<h2>Hey there, I'm <em>Yesid A. López V.</em></h2> <img src="Images/Greeting.gif" width="29px"><br>
 <img align="right" height="280" width="500" alt="Personal image" src="Images/Yesid2.png"></p><br>
 
+Software Engineer passionate about Programming, Networking, Security, and Mathematics.
 - 💻 I’m constantly learning.
 
 - 💬 Write me if you think I can help you.
@@ -23,7 +24,7 @@ Software Developer <img align="center" src="Images/logo_holberton.png" height="5
 <img align="center" alt="Languages uses" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yesid4Code&layout=compact&langs_count=6&title_color=56C77B&text_color=121212">
 <!-- The color is: 56C77B -->
 </p>
-<h6 align="right"><em><br>Follow me: </em></h6>
+<h6 align="right"><em>Follow me: </em></h6>
 <p align="right">
 <a target="blank" href="https://www.linkedin.com/in/Yesid4Code/"><img align="center" height="40" width="40" alt="Yesid_Lopez" src="Images/logo_linkedin.png"></a>
 <a target="blank" href="https://twitter.com/Yesid4Code"><img align="center" height="40" width="40" alt="Yesid_Lopez" src="Images/logo_twitter.png"></a>
