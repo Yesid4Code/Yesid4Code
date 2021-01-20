@@ -1,9 +1,11 @@
 <!-- Portada -->
 <p align="center">
 Hey there, I'm Yesid A. López V. <img src="Images/Greeting.gif" width="29px"><br>
-<img src="Images/Yesid2.png" width="90%" height="10%'"></p><br>
-
-<h3>Academic background</h3><br>
+<img align="right" height="320" width="500" alt="Personal image" src="Images/Yesid2.png"></p><br>
+- I'm constantly learning.
+- xxx
+- [Resume](https://drive.google.com/file/d/11ohFer73sUoBm-AIfoG169FrQI_MoJVE/view?usp=sharing)
+<h3 align="center">Academic background</h3>
 <p align="center">
 Software Developer <img align="center" src="Images/logo_cotecnova.png" height="50" width="50" alt="COTECNOVA"> 
 Software Engineer <img align="center" src="Images/logo_poli.png" height="50" width="100" alt="POLI"> 
