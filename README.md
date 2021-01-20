@@ -8,7 +8,7 @@ Hey there, I'm Yesid A. López V. <img src="Images/Greeting.gif" width="29px"><b
 - 💬 Write me if you think I can help you.
 
 - 📝[Resume](https://drive.google.com/file/d/11ohFer73sUoBm-AIfoG169FrQI_MoJVE/view?usp=sharing)
-</p><br><br><br>
+</p><br><br><br><br><br>
 
 <h3 align="center">Academic background</h3>
 <p align="center">
