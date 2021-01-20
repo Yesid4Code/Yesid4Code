@@ -16,6 +16,6 @@ Find me around the web 🌎:
 
 <h3>My GitHub stats</h3>
 <p align="center">
-<img align="center" height="150" width="320" alt="My github stats" src="https://github-readme-stats.vercel.app/api?username=Yesid4Code&hide=stars&count_private=true&show_icons=true&title_color=da1499&text_color=00a7dc&icon_color=ffde2f&bg_color=ffffff">
-<img align="center" height="150" width="320" alt="Languages uses" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yesid4Code&layout=compact&langs_count=6&title_color=da1499&text_color=00a7d">
+<img align="center" height="15%" width="320" alt="My github stats" src="https://github-readme-stats.vercel.app/api?username=Yesid4Code&hide=stars&count_private=true&show_icons=true&title_color=da1499&text_color=00a7dc&icon_color=ffde2f&bg_color=ffffff">
+<img align="center" height="15%" width="320" alt="Languages uses" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yesid4Code&layout=compact&langs_count=6&title_color=da1499&text_color=00a7d">
 </p>
