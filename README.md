@@ -5,6 +5,14 @@ Hey there, I'm Yesid A. López V. <img src="Images/Greeting.gif" width="29px"><b
 - I'm constantly learning.
 - xxx
 - [Resume](https://drive.google.com/file/d/11ohFer73sUoBm-AIfoG169FrQI_MoJVE/view?usp=sharing)
+
+- 👨🏽💻 I’m constantly learning.
+- 🌱 I’m currently learning Typescript; 
+- 💬 Ask me about anything, I am happy to help;
+- 📫 How to reach me: [@abhisheknaiidu](https://twitter.com/abhisheknaiidu);
+- 📝[Resume](https://drive.google.com/file/d/1sZ5DFLoYLKvJmgoyJc6VZs-JYROl7A9o/view)
+
+
 <h3 align="center">Academic background</h3>
 <p align="center">
 Software Developer <img align="center" src="Images/logo_cotecnova.png" height="50" width="50" alt="COTECNOVA"> 
