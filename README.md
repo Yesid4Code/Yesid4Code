@@ -1,7 +1,7 @@
 <!-- Portada -->
-<p align="center">
+<p align="center" height="300">
 Hey there, I'm Yesid A. López V. <img src="Images/Greeting.gif" width="29px"><br>
-<img align="right" height="280" width="400" alt="Personal image" src="Images/Yesid2.png"></p><br>
+<img align="right" height="280" width="500" alt="Personal image" src="Images/Yesid2.png"></p><br>
 
 - 💻 I’m constantly learning.
 
