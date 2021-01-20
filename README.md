@@ -1,8 +1,6 @@
 <!-- Portada -->
 <p align="center">
-Hey there <img src="Images/Greeting.gif" width="29px"> I'm Yesid A. López V.<br>
-Thanks for visitin my profile.<br>
-Here you'll find some information about me:<br>
+Hey there, I'm Yesid A. López V. <img src="Images/Greeting.gif" width="29px"><br>
 <img src="Images/Yesid2.png" width="90%" height="10%'"></p><br>
 
 <p align="center">
@@ -14,4 +12,13 @@ Software Developer <img align="center" src="Images/logo_holberton.png" height="5
 <p>
 Fun facts: I'm also an Industrial Engineer who loves entrepreneurship 
 Find me around the web 🌎:
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Yesid4Code&hide=stars&count_private=true&show_icons=true&title_color=da1499&text_color=00a7dc&icon_color=ffde2f&bg_color=ffffff" height="150" width="320" alt="My github stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yesid4Code&layout=compact&langs_count=6&title_color=da1499&text_color=00a7d height="150" width="320" alt="Languages uses">
+
+</p>
+
+p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mfcrespo&hide=star>
 </p>
