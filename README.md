@@ -2,16 +2,13 @@
 <p align="center">
 Hey there, I'm Yesid A. López V. <img src="Images/Greeting.gif" width="29px"><br>
 <img align="right" height="280" width="400" alt="Personal image" src="Images/Yesid2.png"></p><br>
+
 - 💻 I’m constantly learning.
-- 💬 Write me if you think I can help you.: <h6 align="right"><em><br>Follow me: </em></h6>
-<p align="right">
-<a href="https://www.linkedin.com/in/Yesid4Code/" target="blank"><img align="center" src="Images/logo_linkedin.png" alt="Yesid_Lopez" height="40" width="40"></a>
-<a href="https://twitter.com/Yesid4Code" target="blank"><img align="center" src="Images/logo_twitter.png" alt="Yesid_Lopez" height="40" width="40"></a>
-<a href="https://medium.com/@mafe_crespo" target="blank"><img align="center" src="https://github.com/mfcrespo/Github_profile/blob/master/images/logo_medium.png" alt="@mafe_crespo" height="40" width="40" /></a>
-</p>
+
+- 💬 Write me if you think I can help you.
 
 - 📝[Resume](https://drive.google.com/file/d/11ohFer73sUoBm-AIfoG169FrQI_MoJVE/view?usp=sharing)
-<br><br><br>
+</p><br><br><br>
 
 <h3 align="center">Academic background</h3>
 <p align="center">
@@ -26,4 +23,10 @@ Software Developer <img align="center" src="Images/logo_holberton.png" height="5
 <img align="center" alt="Languages uses" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yesid4Code&layout=compact&langs_count=6&title_color=56C77B&text_color=121212">
 <!-- The color is: 56C77B -->
 </p>
-Find me around the web 🌎:
+<h6 align="right"><em><br>Follow me: </em></h6>
+<p align="right">
+<a target="blank" href="https://www.linkedin.com/in/Yesid4Code/"><img align="center" height="40" width="40" alt="Yesid_Lopez" src="Images/logo_linkedin.png"></a>
+<a target="blank" href="https://twitter.com/Yesid4Code"><img align="center" height="40" width="40" alt="Yesid_Lopez" src="Images/logo_twitter.png"></a>
+<a href="https://medium.com/@mafe_crespo" target="blank"><img align="center" src="https://github.com/mfcrespo/Github_profile/blob/master/images/logo_medium.png" alt="@mafe_crespo" height="40" width="40" /></a>
+</p>
+
