@@ -3,8 +3,8 @@
 Hey there, I'm Yesid A. López V. <img src="Images/Greeting.gif" width="29px"><br>
 <img src="Images/Yesid2.png" width="90%" height="10%'"></p><br>
 
-<p align="center">
 <h3>Academic background</h3><br>
+<p align="center">
 Software Developer <img align="center" src="Images/logo_cotecnova.png" height="50" width="50" alt="COTECNOVA"> 
 Software Engineer <img align="center" src="Images/logo_poli.png" height="50" width="100" alt="POLI"> 
 Software Developer <img align="center" src="Images/logo_holberton.png" height="50" width="50" alt="Holberton">
