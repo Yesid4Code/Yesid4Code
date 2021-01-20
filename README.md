@@ -14,8 +14,8 @@ Fun facts: I'm also an Industrial Engineer who loves entrepreneurship
 Find me around the web 🌎:
 </p>
 
-<h3>My GitHub stats</h3>
+<h3 align="center">My GitHub stats</h3>
 <p align="center">
-<img align="center" height="155px" width="320" alt="My github stats" src="https://github-readme-stats.vercel.app/api?username=Yesid4Code&hide=stars&count_private=true&show_icons=true&title_color=da1499&text_color=00a7dc&icon_color=ffde2f&bg_color=ffffff">
+<img align="center" height="250px" width="320" alt="My github stats" src="https://github-readme-stats.vercel.app/api?username=Yesid4Code&hide=stars&count_private=true&show_icons=true&title_color=da1499&text_color=00a7dc&icon_color=ffde2f&bg_color=ffffff">
 <img align="center" height="150px" width="320" alt="Languages uses" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yesid4Code&layout=compact&langs_count=6&title_color=da1499&text_color=00a7d">
 </p>
