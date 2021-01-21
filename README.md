@@ -1,7 +1,7 @@
 <!-- Portada -->
 <p align="center" height="300">
 Hey there, I'm <em>Yesid A. López V.</em><img src="Images/Greeting.gif" width="29px"><br>
-<img align="right" height="280" width="400" alt="Personal image" src="Images/Yesid2.png"></p>
+<img align="right" height="280" width="400" alt="Personal image" src="Images/Yesid4.png"></p>
 Software developer passionate about technology, programming and cybersecurity, which allow me to face intellectual challenges and solve problems through critical thinking and creativity.
 Focused on the design of algorithms and solutions oriented to the backend, making use of technologies such as Linux, C and Python.
 
