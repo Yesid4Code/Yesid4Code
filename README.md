@@ -2,14 +2,15 @@
 <p align="center" height="300">
 Hey there, I'm <em>Yesid A. López V.</em><img src="Images/Greeting.gif" width="29px"><br>
 <img align="right" height="280" width="500" alt="Personal image" src="Images/Yesid2.png"></p><br>
+Software developer passionate about technology, programming and cybersecurity, which allow me to face intellectual challenges and solve problems through critical thinking and creativity.
+Focused on the design of algorithms and solutions oriented to the backend, making use of technologies such as Linux, C and Python.
 
-Software Engineer passionate about Programming, Networking, Security, and Mathematics.
 - 💻 I’m constantly learning.
 
 - 💬 Write me if you think I can help you.
 
 - 📝[Resume](https://drive.google.com/file/d/11ohFer73sUoBm-AIfoG169FrQI_MoJVE/view?usp=sharing)
-</p><br><br><br><br><br>
+</p><br><br><br>
 
 <h3 align="center">Academic background</h3>
 <p align="center">
